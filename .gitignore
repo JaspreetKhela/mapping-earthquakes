@@ -1,4 +1,4 @@
 .DS_Store
 
 # mapbox API key
-config.py
+config.js
